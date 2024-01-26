@@ -4,4 +4,3 @@ numpy>=1.11.0
 pyomo>=6.4.3
 networkx
 tqdm
-highspy
